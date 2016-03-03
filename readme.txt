@@ -5,4 +5,4 @@ Git tracks changes of files.
 I like the job
 create a new branch is quick.
 Creating a new branch is quick AND simple.
-
+add merge
